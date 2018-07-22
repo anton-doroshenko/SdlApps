@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485619257 source:/home/anton/Apps/test/main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1515970028 source:/home/anton/Apps/maze/version_1/main.cpp
+	"allIncludes.h"
+
+1486737944 /home/anton/Apps/maze/version_1/allIncludes.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1511804273 source:/home/anton/Apps/maze/version_1/src/Bullet.cpp
+	"Bullet.h"
+
+1511804253 /home/anton/Apps/maze/version_1/include/Bullet.h
+
+1517510651 source:/home/anton/Apps/maze/version_1/src/Actor.cpp
+	"Actor.h"
+	"../allIncludes.h"
+
+1517509337 /home/anton/Apps/maze/version_1/include/Actor.h
+	"../allIncludes.h"
+
